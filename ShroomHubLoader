@@ -1,0 +1,2 @@
+if game.PlaceId == 9476339275 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsGoombaa/Shroomhub/main/DoubleDown"))();
