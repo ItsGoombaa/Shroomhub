@@ -1,8 +1,1 @@
-if game.PlaceId == 9476339275 then
- loadstring(game:HttpGet("https://raw.githubusercontent.com/ItsGoombaa/Shroomhub/main/DoubleDown", true))()
- while wait(0.1) do
-print("Loading ShroomHub")
-end
-end
-end
-end)
+print("Hello World")
